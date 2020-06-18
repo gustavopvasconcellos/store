@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Fixed
+- Decode forward slash in search term.
+
 ## [2.96.1] - 2020-06-02
 ### Fixed
 - Revert changes of v2.95.6.
